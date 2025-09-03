@@ -1,4 +1,4 @@
 module.exports = {
-  apiKey: 'YOUR_API_KEY',
-  otherSettings: 'YOUR_SETTINGS'
+  apiKey: 'NEW_API_KEY',
+  otherSettings: 'NEW_SETTINGS'
 };
