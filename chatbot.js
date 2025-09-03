@@ -2,7 +2,9 @@ class Chatbot {
   constructor() {
     this.responses = {
       'Hallo': 'Hallo! Wie kann ich Ihnen helfen?',
-      'Wie geht es Ihnen?': 'Mir geht es gut, danke der Nachfrage!'
+      'Wie geht es Ihnen?': 'Mir geht es gut, danke der Nachfrage!',
+      'Guten Morgen': 'Guten Morgen! Schön, Sie zu sehen!',
+      'Guten Abend': 'Guten Abend! Wie kann ich Ihnen behilflich sein?'
     };
   }
 
